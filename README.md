@@ -92,11 +92,3 @@ Se você se identifica com minha trajetória ou quer trocar ideias sobre tecnolo
 </div>
 
 ---
-
-<div align="center">
-  
-### *"O conhecimento é a única riqueza que aumenta quando compartilhada."*
-  
-![Visitor Count](https://profile-counter.glitch.me/seu-usuario/count.svg)
-
-</div>
